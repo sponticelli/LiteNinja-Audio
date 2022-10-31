@@ -1,0 +1,24 @@
+{
+    "name": "com.liteninja.audio",
+    "version": "1.0.0",
+    "displayName": "LiteNinja Audio",
+    "description": "A configurable Audio System that allows to play sfx and music",
+    "unity": "2021.1",
+    "documentationUrl": "https://github.com/sponticelli/LiteNinja-Audio/blob/main/README.md",
+    "changelogUrl": "https://github.com/sponticelli/LiteNinja-Audio/blob/main/changelog.md",
+    "licensesUrl": "https://github.com/sponticelli/LiteNinja-Audio/blob/main/LICENSE",
+    "dependencies": {
+    },
+    "keywords": [
+      "utility",
+      "Audio System",
+      "SFX",
+      "architecture",
+      "music"
+    ],
+    "author": {
+      "name": "Sandro Ponticelli",
+      "email": "sandro.ponticelli@gmail.com",
+      "url": "https://github.com/sponticelli"
+    }
+  }
